@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @OleFolmer
-- 👀 I’m interested in git...
-- 🌱 I’m currently learning git...
+<h1> test fil <h1>
 
 <!---
 OleFolmer/OleFolmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
